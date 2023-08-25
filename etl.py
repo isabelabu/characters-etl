@@ -2,7 +2,6 @@ import pandas as pd
 
 df = pd.read_csv('characters.csv')
 chara_IDs = df['ID'].tolist()
-print(chara_IDs)
 
 insert_statements = []
 for index, row in df.iterrows():

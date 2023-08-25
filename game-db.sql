@@ -12,3 +12,4 @@ INSERT INTO character (character_id, character_name, character_model, character_
 INSERT INTO character (character_id, character_name, character_model, character_hp, character_atk, character_def, character_weapon) VALUES ('2', ' Pupa', ' Woman', '100', '80', '50', ' Sword');
 INSERT INTO character (character_id, character_name, character_model, character_hp, character_atk, character_def, character_weapon) VALUES ('3', ' Dux', ' Boy', '100', '80', '60', ' Shotgun');
 INSERT INTO character (character_id, character_name, character_model, character_hp, character_atk, character_def, character_weapon) VALUES ('4', ' Vyn', ' Man', '100', '50', '80', ' Darts');
+INSERT INTO character (character_id, character_name, character_model, character_hp, character_atk, character_def, character_weapon) VALUES ('5', ' Adrian', ' Boy', '100', '90', '10', ' Bombs');
